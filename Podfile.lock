@@ -1,0 +1,12 @@
+PODS:
+  - NPSegmentedControl (1.0.1)
+
+DEPENDENCIES:
+  - NPSegmentedControl (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  NPSegmentedControl: fe54bb66cea1477dad9eb310826e17100edb4759
+
+PODFILE CHECKSUM: d83f0c78b25fbbee8d97a6c31fee1e0bd12d4838
+
+COCOAPODS: 1.0.1
